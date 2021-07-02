@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
@@ -45,11 +44,3 @@
     
     return result.next;
 };
-=======
-//     Input: l1 = [2,4,3], l2 = [5,6,4]
-//     Output: [7,0,8]
-//     Explanation: 342 + 465 = 807.
-
-
-
->>>>>>> 22b62ba921ebe6c76f468a43d78d66d17594023b
