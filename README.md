@@ -5,4 +5,6 @@ Leet code solution in javascript
 2. Add two numbers
 3. Median of Two Sorted Arrays 
 4. Palindrome Number
+5. Reverse Integer
+6. 
 
