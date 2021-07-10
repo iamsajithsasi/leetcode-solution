@@ -7,4 +7,5 @@ Leet code solution in javascript
 4. Palindrome Number
 5. Reverse Integer
 6. String to Integer
+7. Search Insert Position
 
