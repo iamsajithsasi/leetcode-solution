@@ -23,7 +23,6 @@
 var searchInsert = function (nums, target) {
   var result = 0;
   let index = nums.indexOf(target);
-  let arr = [...nums];
   let cmpt = [];
   if (index !== -1) {
     result = index;
