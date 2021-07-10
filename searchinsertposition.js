@@ -34,7 +34,6 @@ var searchInsert = function (nums, target) {
     } else if (target > ed) {
       result = nums.length;
     } else if (target > st && target < ed) {
-      console.log("target ", target);
       nums.reverse().forEach((item, index) => {
         if (target > item && cmpt.length == 0) {
           cmpt.push(index);
