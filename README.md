@@ -11,6 +11,7 @@ Leet code solution in javascript
 8. Implmenent strStr: Find index of a string in a string
 9. Length of Last Word
 10. Plus One
+11. Sqrt(x)
 
 Pend
 1. Longest palindrome substring
