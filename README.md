@@ -10,6 +10,7 @@ Leet code solution in javascript
 7. Search Insert Position
 8. Implmenent strStr: Find index of a string in a string
 9. Length of Last Word
+10. Plus One
 
 Pend
 1. Longest palindrome substring
