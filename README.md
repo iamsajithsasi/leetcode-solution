@@ -13,6 +13,8 @@ Leet code solution in javascript
 10. Plus One
 11. Sqrt(x)
 12. Roman to Integer
+13. Longest Common Prefix
+
 
 Pend
 1. Longest palindrome substring
