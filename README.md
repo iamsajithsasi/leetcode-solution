@@ -14,6 +14,7 @@ Leet code solution in javascript
 11. Sqrt(x)
 12. Roman to Integer
 13. Longest Common Prefix
+14. Happy Number
 
 
 Pend
