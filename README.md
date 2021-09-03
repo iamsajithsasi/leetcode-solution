@@ -12,6 +12,7 @@ Leet code solution in javascript
 9. Length of Last Word
 10. Plus One
 11. Sqrt(x)
+12. Roman to Integer
 
 Pend
 1. Longest palindrome substring
