@@ -16,6 +16,7 @@ Leet code solution in javascript
 13. [Longest Common Prefix](longestcommonprefix.js)
 14. [Happy Number](happynumber.js)
 15. [Valid Palindrome](validpalindrome.js)
+16. [Number of 1 bits](numberof1bits.js)
 
 
 Pend
