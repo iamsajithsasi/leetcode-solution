@@ -22,6 +22,6 @@ Explanation: The input binary string 11111111111111111111111111111101 has a tota
  * @return {number}
  */
  var hammingWeight = function(n) {
-    let x = n.toString(2).match(/1/g);
+    let x = n.toString(2).match(/1/g); // toString(2) convert number to binary
     return x?.length || 0;
 };
