@@ -17,6 +17,7 @@ Leet code solution in javascript
 14. [Happy Number](happynumber.js)
 15. [Valid Palindrome](validpalindrome.js)
 16. [Number of 1 bits](numberof1bits.js)
+17. [Majority Element](majorityelement.js)
 
 
 Pend
