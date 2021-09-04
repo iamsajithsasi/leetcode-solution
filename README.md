@@ -2,8 +2,8 @@
 Leet code solution in javascript
 
 1. [Two Sum](twosum.js)
-2. [Add two numbers](addtwonumber.js)
-3. [Median of Two Sorted Arrays](mdianoftwosortedarray.js) 
+2. [Add two numbers](addtwonumbers.js)
+3. [Median of Two Sorted Arrays](medianoftwosortedarray.js) 
 4. [Palindrome Number](palindromenumber.js)
 5. [Reverse Integer](reverseinteger.js)
 6. [String to Integer](stringtointeger.js)
