@@ -20,3 +20,4 @@ Leet code solution in javascript
 17. [Majority Element](majorityelement.js)
 18. [Longest Substring Without Repeating Characters](longestsubstringwithoutrepeatingcharacters.js)
 19. [Longest palindrome substring](longestpalindromicsubstring.js)
+20. [Valid parantheses](validparantheses.js)
