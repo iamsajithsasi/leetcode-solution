@@ -1,4 +1,5 @@
 // Length of Last Word
+
 // Example 1:
 // Input: s = "Hello World"
 // Output: 5
@@ -21,6 +22,5 @@ var lengthOfLastWord = function (s) {
     let word = s.trim();
     let wrdSplit = word.split(" ");
     let lastWord = wrdSplit[wrdSplit.length - 1]
-    console.log(lastWord)
     return lastWord.length;
 };
