@@ -19,4 +19,4 @@ Leet code solution in javascript
 16. [Number of 1 bits](numberof1bits.js)
 17. [Majority Element](majorityelement.js)
 18. [Longest Substring Without Repeating Characters](longestsubstringwithoutrepeatingcharacters.js)
-19, [Longest palindrome substring](longestpalindromicsubstring.js)
+19. [Longest palindrome substring](longestpalindromicsubstring.js)
