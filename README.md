@@ -21,3 +21,5 @@ Leet code solution in javascript
 18. [Longest Substring Without Repeating Characters](longestsubstringwithoutrepeatingcharacters.js)
 19. [Longest palindrome substring](longestpalindromicsubstring.js)
 20. [Valid parantheses](validparantheses.js)
+21. [ZigZag Conversion](zigzagconversion.js)
+
