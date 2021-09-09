@@ -22,4 +22,5 @@ Leet code solution in javascript
 19. [Longest palindrome substring](longestpalindromicsubstring.js)
 20. [Valid parantheses](validparantheses.js)
 21. [ZigZag Conversion](zigzagconversion.js)
+22. [Divide Two Integers](dividetwointegers.js)
 
