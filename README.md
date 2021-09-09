@@ -23,4 +23,6 @@ Leet code solution in javascript
 20. [Valid parantheses](validparantheses.js)
 21. [ZigZag Conversion](zigzagconversion.js)
 22. [Divide Two Integers](dividetwointegers.js)
+22. [Perfect Number](checkperfectnumber.js)
+
 
