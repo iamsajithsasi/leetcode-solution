@@ -25,3 +25,4 @@ Leet code solution in javascript
 22. [Divide Two Integers](dividetwointegers.js)
 22. [Perfect Number](checkperfectnumber.js)
 22. [Self Dividing Numbers](selfdividingnumbers.js)
+23. [Rotate Image](rotateimage.js)
