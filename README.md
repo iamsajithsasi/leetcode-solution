@@ -27,5 +27,6 @@ Leet code solution in javascript
 24. [Self Dividing Numbers](selfdividingnumbers.js)
 25. [Rotate Image](rotateimage.js)
 26. [Binary Search](binarysearch.js)
+28. [First Bad Version](firstbadversion.js)
 
 <!-- 27. [](.js) -->
