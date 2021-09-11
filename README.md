@@ -29,4 +29,4 @@ Leet code solution in javascript
 26. [Binary Search](binarysearch.js)
 28. [First Bad Version](firstbadversion.js)
 
-<!-- 27. [](.js) -->
+<!-- 0. [](.js) -->

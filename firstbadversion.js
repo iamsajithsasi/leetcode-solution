@@ -40,10 +40,12 @@ var solution = function (isBadVersion) {
         /* 
             ex: n = 5, bad = 4
             hard way is valuate from 1......5, which is o(n) complex 
-            smart logic:
-                left = 1;
-                right = depends on mid (mid is actually the center point)
-                hence, we can reduce the o(n) if bad is within mid
+            problem: 
+                bad 4: 1, 2, 3  => good;    4, 5 => false
+                bad 3: 1, 2     => good;    3, 4, 5 => false
+            logic: reduce the o(n)
+                1. find the mid until isBadVersion is true
+                2. from there find the left value
         */
 
         while (left < right) {
