@@ -23,6 +23,9 @@ Leet code solution in javascript
 20. [Valid parantheses](validparantheses.js)
 21. [ZigZag Conversion](zigzagconversion.js)
 22. [Divide Two Integers](dividetwointegers.js)
-22. [Perfect Number](checkperfectnumber.js)
-22. [Self Dividing Numbers](selfdividingnumbers.js)
-23. [Rotate Image](rotateimage.js)
+23. [Perfect Number](checkperfectnumber.js)
+24. [Self Dividing Numbers](selfdividingnumbers.js)
+25. [Rotate Image](rotateimage.js)
+26. [Binary Search](binarysearch.js)
+
+<!-- 27. [](.js) -->
