@@ -30,5 +30,6 @@ Leet code solution in javascript
 27. [First Bad Version](firstbadversion.js)
 28. [Squares of a Sorted Array](squaresofasortedarray.js)
 29. [Move Zeroes](movezeroes.js)
+30. [Rotate Array](rotatearray.js)
 
 <!-- 0. [](.js) -->
