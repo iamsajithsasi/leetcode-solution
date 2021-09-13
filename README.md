@@ -29,5 +29,6 @@ Leet code solution in javascript
 26. [Binary Search](binarysearch.js)
 27. [First Bad Version](firstbadversion.js)
 28. [Squares of a Sorted Array](squaresofasortedarray.js)
+29. [Move Zeroes](movezeroes.js)
 
 <!-- 0. [](.js) -->
