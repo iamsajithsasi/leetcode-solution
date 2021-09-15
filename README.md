@@ -33,5 +33,7 @@ Leet code solution in javascript
 30. [Rotate Array](rotatearray.js)
 31. [Reverse Words in a String III](reversewordsinastring.js)
 32. [Middle of the Linked List](middleoflinkedlist.js)
+33. [Remove Nth Node From End of List](removenthnodefromendoflist.js)
+
 
 <!-- 0. [](.js) -->
