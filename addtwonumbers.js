@@ -21,6 +21,7 @@
  *     this.next = (next===undefined ? null : next)
  * }
  */
+
 /*
  * @param {ListNode} l1
  * @param {ListNode} l2
@@ -78,7 +79,6 @@ var addTwoNumbers = function (l1, l2) {
 
 
 /*
-loop a linked list
 head = {
   "val": 1,
   "next": {
@@ -90,8 +90,18 @@ head = {
   }
 }
 
-while (head) {
-    console.log(head.val);
-    head = head.next;
-}
+* Loop a linked list:
+  while (head) {
+      console.log(head.val);
+      head = head.next;
+  }
+
+* Convert an array to linked list
+  let arr = [1,2,3];
+  let result = new ListNode();
+  let node = result;
+  arr.forEach(item => {
+      node.next = new ListNode(item);
+      node = node.next;
+  });
 */
