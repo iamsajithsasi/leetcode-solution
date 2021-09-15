@@ -75,3 +75,23 @@ var addTwoNumbers = function (l1, l2) {
 
 // [9,9,9,9,9,9,9]
 // [9,9,9,9]
+
+
+/*
+loop a linked list
+head = {
+  "val": 1,
+  "next": {
+      "val": 2,
+      "next": {
+        "val": 3,
+        "next": null
+      }
+  }
+}
+
+while (head) {
+    console.log(head.val);
+    head = head.next;
+}
+*/
