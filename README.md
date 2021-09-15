@@ -32,5 +32,6 @@ Leet code solution in javascript
 29. [Move Zeroes](movezeroes.js)
 30. [Rotate Array](rotatearray.js)
 31. [Reverse Words in a String III](reversewordsinastring.js)
+32. [Middle of the Linked List](middleoflinkedlist.js)
 
 <!-- 0. [](.js) -->
