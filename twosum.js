@@ -33,7 +33,7 @@ var twoSum = function (nums, target) {
   return [stIdx, edIdx];
 };
 
-// method 2
+// method 2 Note: Array must be sorted or this will not work
 var twoSum = function (numbers, target) {
   let left = 0;
   let right = numbers.length - 1;
