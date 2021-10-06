@@ -36,4 +36,7 @@ Leet code solution in javascript
 33. [Remove Nth Node From End of List](removenthnodefromendoflist.js)
 34. [Find All Duplicates in an Array](find-all-duplicates-in-an-array.js)
 
+
+# Databases
+1. [Combine Two Tables](/database/combine-two-tables.md)
 <!-- 0. [](.js) -->
