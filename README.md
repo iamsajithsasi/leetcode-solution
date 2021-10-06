@@ -34,6 +34,6 @@ Leet code solution in javascript
 31. [Reverse Words in a String III](reversewordsinastring.js)
 32. [Middle of the Linked List](middleoflinkedlist.js)
 33. [Remove Nth Node From End of List](removenthnodefromendoflist.js)
-
+34. [Find All Duplicates in an Array](find-all-duplicates-in-an-array.js)
 
 <!-- 0. [](.js) -->
