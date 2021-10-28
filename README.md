@@ -41,3 +41,6 @@ Leet code solution in javascript
 # Databases
 1. [Combine Two Tables](/database/combine-two-tables.md)
 <!-- 0. [](.js) -->
+
+# Types
+1. [Linked List](linkedlist.md)
