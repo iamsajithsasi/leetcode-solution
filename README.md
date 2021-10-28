@@ -36,7 +36,7 @@ Leet code solution in javascript
 33. [Remove Nth Node From End of List](removenthnodefromendoflist.js)
 34. [Find All Duplicates in an Array](find-all-duplicates-in-an-array.js)
 35. [Guess Number Higher or Lower](guess-number-higher-or-lower.js)
-
+36. [Invert Binary Tree](invert-binary-tree.js)
 
 # Databases
 1. [Combine Two Tables](/database/combine-two-tables.md)
