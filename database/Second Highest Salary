@@ -50,4 +50,7 @@ Output:
 +---------------------+
 
 # Write your MySQL query statement below
-SELECT MAX(SALARY) as SecondHighestSalary FROM Employee WHERE SALARY < (SELECT MAX(SALARY) FROM Employee)
+SELECT MAX(SALARY) as SecondHighestSalary FROM Employee WHERE SALARY < (SELECT MAX(SALARY) FROM Employee);
+
+# Write your MySQL query statement below
+SELECT (SELECT DISTINCT salary FROM Employee ORDER BY salary DESC LIMIT 1 OFFSET 1) as SecondHighestSalary;
