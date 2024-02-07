@@ -22,7 +22,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
  * @param {number[]} nums
  * @return {number}
  */
-```javascript
 var removeDuplicates = function(nums) {
    let counter = 0,
         validArr = [];
@@ -41,5 +40,4 @@ var removeDuplicates = function(nums) {
 
    return validArr.length
 };
-```
 
