@@ -41,3 +41,25 @@ var removeDuplicates = function(nums) {
    return validArr.length
 };
 
+// using pointers
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var removeDuplicates = function(nums) {
+    let prt1 = 0, prt2 = 1, len = nums.length;
+
+    while(prt2 < len) {
+       // if values are not same, then replace that value to the pointer
+        if(nums[prt1] != nums[prt2]) {
+            nums[prt1 + 1] = nums[prt2];
+            prt1++
+        }
+
+       // if values are same then get the next right pointer value
+        prt2++;
+    }
+
+    return prt1+1
+};
+
